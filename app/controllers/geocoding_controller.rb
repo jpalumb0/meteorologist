@@ -24,7 +24,7 @@ class GeocodingController < ApplicationController
     #@latitude = "Replace this string with your answer."
 
     #@longitude = "Replace this string with your answer."
-
+    #comment added for new commit
     render("geocoding/street_to_coords.html.erb")
   end
 end
